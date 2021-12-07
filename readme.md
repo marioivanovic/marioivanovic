@@ -58,10 +58,6 @@ Areas of Expertise/Interest: Software Engineering, UI-UX Designing.
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="https://github.com/Nkap23/CodeConnect">CodeConnect | Collaborative Code Editor & Compiler</a></li>
-  <li><a href="https://github.com/Nkap23/QuickPoll">QuickPoll | Fullstack Polling Application</a></li>
-  <li><a href="https://github.com/Project-SafeShop">SafeShop | System to ensure safe opening of shops during COVID</a></li>
-  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
 </ul>
 
 <h3>
