@@ -15,7 +15,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Mario Ivanovic, a FullStack Developer. I am a Full-Stack Developer. I also do photography in my free time.
+I'm Mario Ivanovic, a FullStack web developer from Paris, France 🇫🇷. I also do photography in my free time.
 <br/>
 <br/>
 Areas of Interest: Software Engineering, UI-UX Designing.
