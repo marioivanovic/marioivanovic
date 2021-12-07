@@ -18,7 +18,7 @@ Hello World 👋
 I'm Mario Ivanovic, a FullStack Developer. I am a Full-Stack Developer. I also do photography in my free time.
 <br/>
 <br/>
-Areas of Expertise/Interest: Software Engineering, UI-UX Designing.
+Areas of Interest: Software Engineering, UI-UX Designing.
 
 <h3>
   Skills 💼
