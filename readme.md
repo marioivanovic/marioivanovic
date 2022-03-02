@@ -19,7 +19,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Mario Ivanovic, a 30 years old FullStack web developer from Paris, France 🇫🇷. I also do photography in my free time.
+I'm Mario Ivanovic, a 31 years old FullStack web developer from Paris, France 🇫🇷. I also do photography in my free time.
 <br/>
 <br/>
 
