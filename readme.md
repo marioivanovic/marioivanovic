@@ -55,6 +55,8 @@ I'm Mario Ivanovic, a 31 years old FullStack web developer from Paris, France ðŸ
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Netifly-430098?style=for-the-badge&logo=netifly&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=netifly&logoColor=white">
+
 </p>
 
 <h3>
