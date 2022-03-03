@@ -61,7 +61,8 @@ I'm Mario Ivanovic, a 31 years old FullStack web developer from Paris, France �
   Projects 👨‍💻
 </h3>
 <ul>
-Coming soon...
+  <h4>La Belle Plante</h4> https://labelleplantetest.herokuapp.com/home : Group project made with Angular.
+More soon...
 </ul>
 
 <h3>
