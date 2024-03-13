@@ -19,7 +19,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Mario Ivanovic, a 32 years old FullStack web developer from Paris, France 🇫🇷. I also do photography during my free time.
+I'm Mario Ivanovic, a 33 years old FullStack web developer from Paris, France 🇫🇷. I also do photography during my free time.
 <br/>
 <br/>
 
@@ -63,16 +63,6 @@ I'm Mario Ivanovic, a 32 years old FullStack web developer from Paris, France �
   Projects 👨‍💻
 </h3>
 <ul>
-  <h4>La Belle Plante</h4> https://labelleplantetest.herokuapp.com/home : Group project made with Angular. <br/>
-More soon...
+Coming soon...
+<p> You can check my Gitlab profile : <a href="https://gitlab.com/marioivanovic">here</a></p>
 </ul>
-
-<h3>
-  GitHub Stats 📊
-</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marioivanovic&show_icons=true&theme=vision-friendly-dark">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioivanovic&theme=vision-friendly-dark">
-</p>
