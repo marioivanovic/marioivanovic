@@ -23,6 +23,8 @@ I'm Mario Ivanovic, a 33 years old freelance fullStack web developer from Paris,
 <br/>
 <br/>
 
+<a href="https://marioivanovicdev.netlify.app"> Check out my first portfolio</a>
+<br/>
 <h3>
   Skills 💼
 </h3>
